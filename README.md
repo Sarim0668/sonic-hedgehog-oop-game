@@ -31,7 +31,6 @@ Made using C++ and sfml library.
 ## 📷 Screenshots
 ![1](https://github.com/user-attachments/assets/44813cbb-0e8e-4577-88d6-bb9130f6f9ba)
 ![4](https://github.com/user-attachments/assets/bab37aea-8437-4707-9ddf-0810ce366cc9)
-![6](https://github.com/user-attachments/assets/6933bdd7-97d8-41c3-9be1-b479952914a0)
 ![5](https://github.com/user-attachments/assets/ba4eb958-5638-4283-b5ba-5b304d07facc)
 
 ---
